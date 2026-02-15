@@ -1,16 +1,49 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**Cassiodev-git/Cassiodev-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Cássio
 
-Here are some ideas to get you started:
+Sou estudante de desenvolvimento focado em Back-end, construindo APIs REST com Node.js e explorando boas práticas de arquitetura e organização de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Atualmente estudando
+
+- Node.js
+- Express
+- Sequelize
+- Autenticação com JWT
+- php
+- Organização em camadas (Controller / Service / Repository)
+
+---
+
+## 🛠️ Tecnologias
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📌 Projeto em destaque
+
+🔹 **Api-mercado**  
+API REST com autenticação JWT, carrinho de compras e organização em camadas.
+
+Principais pontos:
+- Middleware de autenticação
+- Associação entre modelos com Sequelize
+- Regras de negócio implementadas no service
+- Estrutura organizada para escalabilidade
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cassiodev-git&show_icons=true&theme=tokyonight)
+
+---
+
+Sempre buscando evoluir e entender melhor como construir sistemas organizados e escaláveis.
