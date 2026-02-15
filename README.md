@@ -40,10 +40,4 @@ Principais pontos:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cassiodev-git&show_icons=true&theme=tokyonight)
-
----
-
 Sempre buscando evoluir e entender melhor como construir sistemas organizados e escaláveis.
