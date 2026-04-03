@@ -50,8 +50,8 @@ Gosto de resolver problemas de forma prática e construir aplicações funcionai
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cassiodev-git&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassiodev-git&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cassiodev-git&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cassiodev-git&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
