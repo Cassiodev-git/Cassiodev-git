@@ -59,11 +59,11 @@ Gosto de resolver problemas de forma prática e construir aplicações funcionai
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK">
+  <a href="https://www.linkedin.com/in/c%C3%A1ssio-l%C3%BAcio-zeferino-de-souza-709694327/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
   </a>
   
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:cassiolucio4@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30"/>
   </a>
 </p>
