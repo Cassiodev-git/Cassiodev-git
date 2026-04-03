@@ -1,43 +1,65 @@
-# Olá 👋
+<h1 align="center">Oi, eu sou o Cássio Lúcio 👋</h1>
 
-Sou Cássio
-
-Sou estudante de desenvolvimento focado em Back-end, construindo APIs REST com Node.js e explorando boas práticas de arquitetura e organização de código.
+<p align="center">
+  💻 Desenvolvedor Backend 💻 <br>
+   Focado em APIs, sistemas escaláveis e projetos reais
+</p>
 
 ---
 
-## 🚀 Atualmente estudando
+##  Sobre mim
 
-- Node.js
-- Express
-- Sequelize
-- Autenticação com JWT
-- php
-- Organização em camadas (Controller / Service / Repository)
+Sou desenvolvedor focado em backend e construção de sistemas reais, com experiência em APIs REST, autenticação com JWT e arquitetura em camadas.
+
+Tenho evoluído para fullstack, desenvolvendo interfaces com React e Vue integradas a APIs próprias.
+
+Gosto de resolver problemas de forma prática e construir aplicações funcionais, com foco em organização, escalabilidade e boas práticas.
+
+🎯 Objetivo: conquistar minha primeira oportunidade na área de desenvolvimento e continuar evoluindo como desenvolvedor fullstack.
+
+- 🔥 Atualmente trabalhando no projeto **CashFlow**
+- 🎯 Objetivo: entrar no mercado de tecnologia
+- ⚙️ Foco em APIs REST e arquitetura backend
 
 ---
 
 ## 🛠️ Tecnologias
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+
+</p>
 
 ---
 
-## 📌 Projeto em destaque
+### 📌 Projetos
 
-🔹 **Api-mercado**  
-API REST com autenticação JWT, carrinho de compras e organização em camadas.
-
-Principais pontos:
-- Middleware de autenticação
-- Associação entre modelos com Sequelize
-- Regras de negócio implementadas no service
-- Estrutura organizada para escalabilidade
+- 💰 Sistema de gestão financeira (CashFlow)  
+- 🛒 E-commerce com carrinho e autenticação  
 
 ---
 
-Sempre buscando evoluir e entender melhor como construir sistemas organizados e escaláveis.
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cassiodev-git&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassiodev-git&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/c%C3%A1ssio-l%C3%BAcio-zeferino-de-souza-709694327/">LinkedIn</a> •
+  <a href="mailto:cassiolucio4@gmail.com">Email</a>
+</p>
+
