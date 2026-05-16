@@ -78,7 +78,7 @@ Plataforma com carrinho de compras, autenticação de usuários e painel de admi
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/c%C3%A1ssio-l%C3%BAcio-zeferino-de-souza-709694327/">
+  <a href="https://www.linkedin.com/in/c%C3%A1ssio-l%C3%BAcio-709694327/">
     <img src="https://img.shields.io/badge/LinkedIn-Cássio_Lúcio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
