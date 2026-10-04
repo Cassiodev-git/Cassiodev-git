@@ -133,9 +133,9 @@ A comunicação com os dados é organizada através de **repositories e services
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cassiodev-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cassiodev-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75"/>
   &nbsp;
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cassiodev-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassiodev-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75"/>
 </p>
 
 ---
