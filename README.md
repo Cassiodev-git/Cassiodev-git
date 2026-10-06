@@ -158,6 +158,10 @@ Tenho interesse em oportunidades envolvendo **backend, desenvolvimento fullstack
   <a href="mailto:cassiolucio4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-cassiolucio4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://cassiodev-git.github.io/Portifolio_web/">
+    <img src="https://img.shields.io/badge/Portfólio-Cássio_Lúcio-24292F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
